@@ -1,4 +1,4 @@
-/* eslint import/no-dynamic-require: 0, global-require: 0 */
+/* eslint import/no-dynamic-require: 0, global-require: 0, no-console: 0  */
 import path from 'path';
 import _ from 'lodash';
 import Mocha, { Test, Suite } from 'mocha';
